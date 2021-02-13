@@ -22,12 +22,14 @@
 }
 .header_optionLineOne{
     font-size: 5px;
+    color: white;
 
 }
 
 .header_option_lineTwo{
     font-size: 13px;
     font-weight:800;
+    color:white;
 }
 .header_optionBasket{
     display : flex;
